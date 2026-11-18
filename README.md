@@ -8,6 +8,10 @@ Luque, B., Lacasa, L., Ballesteros, F. and Luque, J., 2009. Horizontal visibilit
 
 Campanharo, A., Sirer, M., Malmgren, R., Ramos, F. and Amaral, L., 2011. Duality between Time Series and Networks. PLoS ONE, 6(8), p.e23378.
 
+## Used in
+
+ts2g turns ECG heartbeats into visibility graphs in *Graph Neural Networks for Topological Feature Extraction in ECG Classification* (K. Zeinalipour and M. Gori, WIRN 2022, Springer 2023, [doi:10.1007/978-981-99-3592-5_2](https://doi.org/10.1007/978-981-99-3592-5_2)). The code for that paper is in [ECG-Classification](https://github.com/KamyarZeinalipour/ECG-Classification).
+
 # Dependencies:
 
 openpyxl
